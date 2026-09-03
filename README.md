@@ -27,7 +27,7 @@ TELESWEEP is a Python utility for managing and cleaning up Telegram groups, chan
 ## Installation
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/paulusesthis/telesweep
 cd TELESWEEP
 pip install -r requirements.txt
 ```

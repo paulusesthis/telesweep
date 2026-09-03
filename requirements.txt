@@ -1,0 +1,3 @@
+telethon
+colorama
+python-dotenv

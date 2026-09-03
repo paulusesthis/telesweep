@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Telegram session
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
